@@ -28,6 +28,11 @@ namespace ConsoleCli
         private static void RunOptions(Options options)
         {
             Console.WriteLine("Hello {0}", options.Name);
+
+            // ....
+
+
+
             Environment.Exit(0);
         }
     }
